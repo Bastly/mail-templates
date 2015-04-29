@@ -3,6 +3,7 @@
 ## Instructions to use `mail-signature.html` as your signature in Gmail
 
 1. Download this repo and open `mail-signature.html` file in your browser.
+1. Modify `Name Surname` and `Occupation` text with an editor and save changes.
 1. Click on the webpage you've opened the file and press Ctrl + A (Cmd + A in Mac) to select all and copy it pressing Ctrl + C (Cmd + C in Mac).
 1. Open Gmail and go to configuration panel.
 1. On configuration go to firm section and check box next to the mini editor.
